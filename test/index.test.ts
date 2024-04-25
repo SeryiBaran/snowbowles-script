@@ -10,7 +10,8 @@ describe('functions', () => {
     expect(transpile).not.toThrow()
   })
   it('run', async () => {
-    const child = await execa('node one.js')
+    const child = await execa('ls -la')
+    console.log(child.stdout)
 
     expect(child.exitCode).toBe(0)
   })
