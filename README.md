@@ -38,7 +38,9 @@ snowbowles-script (SNOWBOWLEScript)
 
 ## How to use
 
-Write to `./snowbowles-script (SNOWBOWLEScript).snowbowles-script.ts` this:
+Firstly - clone this repo.
+
+After, write to `./snowbowles-script (SNOWBOWLEScript).snowbowles-script.ts` this:
 
 ```
 snowbowles-script (SNOWBOWLEScript)
