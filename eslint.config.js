@@ -5,11 +5,12 @@ export default antfu(
   {
     ignores: [
       // eslint ignore globs here
+      '*snowbowles-script (SNOWBOWLEScript).snowbowles-script.ts*',
     ],
   },
   {
     rules: {
-      "no-console": "off"
+      'no-console': 'off',
     },
   },
 )
