@@ -1,0 +1,174 @@
+full lang name:
+```
+snowbowles-script (SNOWBOWLEScript)
+```
+
+code file name:
+```
+snowbowles-script (SNOWBOWLEScript).snowbowles-script.ts
+```
+
+version not from 1 to infinity - FROM 2.007 to 0.9 with step 0.05. All 23 versions:
+```
+2.007
+1.957
+1.907
+1.857
+1.807
+1.757
+1.707
+1.657
+1.607
+1.557
+1.507
+1.457
+1.407
+1.357
+1.307
+1.257
+1.207
+1.157
+1.107
+1.057
+1.007
+0.957
+0.907
+```
+
+store script text in the variable in ram!
+lines split by \n
+every script line - indent = previousIndent + 1; if (spacesCount)
+program name can contain ONLY 3 ascii characters!
+
+snowbowles snowbowler. snowbowler? snowbowler. DEM selwobwons - 0
+snowbowles snowbawler. snawboler! sniffbowler, DEM selwobwons - 1
+
+divider - GEN
+
+
+snowbowles-script (SNOWBOWLEScript).snowbowles-script.ts template
+
+```
+snowbowles-script (SNOWBOWLEScript)
+{today date in YYYY-DD-MM-YYYY format}
+SNOWBOWLEScript[
+{number of version in ascii}]
+Arputamanuuebanolopatogovno>{
+       {name of the program in ascii}}<analomarapeskolohovozofemtogramm
+1
+22
+3378
+444
+{program line}
+ {program line}
+  {program line}
+   {program line}
+    {program line}
+     {program line}
+1
+22
+3378
+444
+
+```
+
+program name
+```
+one
+```
+
+js code
+```
+console.log(1)
+```
+
+
+
+ascii js code
+```
+01100011 || c
+01101111 || o
+01101110 || n
+01110011 || s
+01101111 || o
+01101100 || l
+01100101 || e
+00101110 || .
+01101100 || l
+01101111 || o
+01100111 || g
+00101000 || (
+00110001 || 1
+00101001 || )
+```
+
+ascii js program name
+```
+01101111 || o
+01101110 || n
+01100101 || e
+```
+
+
+
+
+snowbowles-script (SNOWBOWLEScript).snowbowles-script.ts
+
+```
+snowbowles-script (SNOWBOWLEScript)
+2024-25-04-2024
+SNOWBOWLEScript[
+00110010
+00101110
+00110000
+00110000
+00110111]
+Arputamanuuebanolopatogovno>{
+       01101111
+       01101110
+       01100101}<analomarapeskolohovozofemtogramm
+1
+22
+3378
+444
+snowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGEN
+ snowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGEN
+  snowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGEN
+   snowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGEN
+    snowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGEN
+     snowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGEN
+      snowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGEN
+       snowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGEN
+        snowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGEN
+         snowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGEN
+          snowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGEN
+           snowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGEN
+            snowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGEN
+             snowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbowler. snowbowler? snowbowler. DEM selwobwonsGENsnowbowles snowbawler. snawboler! sniffbowler, DEM selwobwonsGEN
+1
+22
+3378
+444
+
+```
+
+
+
+
+
+
+
+
+
+throw errors on any syntax mismatch!
+
+
+
+
+
+
+
+
+
+
+todo: write encoder to all this shit
