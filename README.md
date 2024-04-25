@@ -18,23 +18,23 @@ snowbowles-script (SNOWBOWLEScript)
 
 ## FEATURES
 
-- Simple - two syntax constructions FOR ALL CODE!
+- Simple - two syntax constructions FOR ALL CODE! If you use more, compilator will FUCK YOU!
 - Fast - compiles to JavaScript!
 - You have cool name - ~~idiot~~ "BLAZINGLY FAST SnowBoller"!
 - Blazing fast strict mode by default - if you write any error, compilator will FUCK YOU!
-- Great versions plan - only 23 unusable numbers of versions: From 2.007 to 0.9 with step 0.05. ALL 23 BLAZINGLY FAST VERSIONS - `2.007, 1.957, 1.907, 1.857, 1.807, 1.757, 1.707, 1.657, 1.607, 1.557, 1.507, 1.457, 1.407, 1.357, 1.307, 1.257, 1.207, 1.157, 1.107, 1.057, 1.007, 0.957, 0.907`
+- Great versions plan - only 23 numbers of versions: From 2.007 to 0.9 with step 0.05. ALL 23 BLAZINGLY FAST VERSIONS - `2.007, 1.957, 1.907, 1.857, 1.807, 1.757, 1.707, 1.657, 1.607, 1.557, 1.507, 1.457, 1.407, 1.357, 1.307, 1.257, 1.207, 1.157, 1.107, 1.057, 1.007, 0.957, 0.907`. If you use anything else, compilator will FUCK YOU!
 - Super comfortable blazing fast file naming - no more thinking for a name of file for many hours! NOW - ONLY ONE FILE!!!! `snowbowles-script (SNOWBOWLEScript).snowbowles-script.ts`!!!!!!!!!!!!!!!!!
-- Super comfortable blazing fast program naming - no more thinking for a name of program for many hours! NOW - ONLY THREE LETTERS!!!! AAAAAAAAAAAAAA FUCK YOU!!!!!!!!!!!!!!!!!
-- At compilation, all script code contained in RAM - it's super blazing fast and comfortable for developer of this lang (me)!
-- Blazing fast code lines blazingly fastly splitted by blazing fast new lines!
-- EVERY blazing fast code line has an blazing fast indent!
-- EVERY blazing fast code line has an blazing fast indent of previous code line plus 1 (current line indent = previous line indent + 1)!
-- EVERY blazing fast code file has today date! This is useful if you have problems with memory!!! If you don't write in to file every day, compilator will FUCK YOU!
-- EVERY blazing fast error in syntax AND COMPILATOR OF snowbowles-script (SNOWBOWLEScript) WILL FUCK YOUUUUUUU!!!!!!!!
+- Super comfortable blazing fast program naming - no more thinking for a name of program for many hours! NOW - ONLY THREE LETTERS!!!! If you use more or less, compilator will FUCK YOU! AAAAAAAAAAAAAA FUCK YOU!!!!!!!!!!!!!!!!!
+- At compilation, all script code contained in RAM - it's super blazing fast and comfortable for developer of this lang (me)! If you do something with compilator code, compilator can FUCK YOU!
+- Blazing fast code lines blazingly fastly splitted by blazing fast new lines! If you dont split blazing fast lines by blazing fast new lines, compilator will FUCK YOU!
+- EVERY blazing fast code line has an blazing fast indent! If you dont write indents, compilator will FUCK YOU!
+- EVERY blazing fast code line has an blazing fast indent of previous code line plus 1 (current line indent = previous line indent + 1)! If you dont respect this, compilator will FUCK YOU!
+- EVERY blazing fast code file has today date! This is useful if you have problems with memory!!! If you don't write date to file every day, compilator will FUCK YOU!
+- EVERY blazing fast error in syntax AND COMPILATOR OF "snowbowles-script (SNOWBOWLEScript)" WILL FUCK YOUUUUUUU!!!!!!!!
 
 ## EXAMPLE OF BLAZINGLY FAST CODE
 
-[HERE YOU CAN BLAZINGLY FAST FIND BLAZINGLE FAST EXAMPLE OF BLAZINGLY FAST CODE](./snowbowles-script%20(SNOWBOWLEScript).snowbowles-script.ts)
+[HERE YOU CAN BLAZINGLY FAST FIND BLAZINGLE FAST EXAMPLE OF BLAZINGLY FAST CODE](./snowbowles-script%20(SNOWBOWLEScript).snowbowles-script.ts). If you change this code, compilator can FUCK YOU!
 
 ## How to use
 
@@ -377,6 +377,8 @@ PROGRAM NAME: one
 ========================================
 COMPILING snowbowles-script (SNOWBOWLEScript) script is done.
 ```
+
+OR COMPILATOR WILL FUCK YOU!
 
 After this, in current folder will appear file `{program name}.js`, for example - `one.js`.
 
