@@ -2,8 +2,7 @@ import fs from 'node:fs'
 import { StringDecoder } from 'node:string_decoder'
 import { Buffer } from 'node:buffer'
 import dayjs from 'dayjs'
-
-const langVersion = '2.007'
+import { langVersion } from './langVersion'
 
 const todayDateFormatted = dayjs().format('YYYY-DD-MM-YYYY')
 

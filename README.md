@@ -38,6 +38,16 @@ snowbowles-script (SNOWBOWLEScript)
 
 ## How to use
 
+### Easy way
+
+- Write simple ascii javascript code to file `./code_for_generateScript.js`
+- Edit program name (what contains only 3 ascii symbols) in file `./src/generateScript.ts`
+- Run `pnpm generateScript`
+- Run `pnpm start`
+- Run `node one.js`
+
+### Hard way
+
 Firstly - clone this repo.
 
 After, write to `./snowbowles-script (SNOWBOWLEScript).snowbowles-script.ts` this:
@@ -392,7 +402,7 @@ SUPER FUCKING SUPER DUPER ULTRA MEGA KILO TERA SIMPLE AND EASY!!!!!!!!!!!! ISN'T
 
 ## Todo
 
-- Make generator for this code
+- Add MD5 hash of js code, encoded with ascii
 
 ## License
 
