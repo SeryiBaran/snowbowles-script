@@ -2,7 +2,7 @@
   "name": "snowbowles-script",
   "type": "module",
   "version": "0.0.0",
-  "packageManager": "pnpm@9.0.6",
+  "packageManager": "pnpm@9.0.2",
   "description": "_description_",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
   "license": "MIT",
@@ -44,7 +44,6 @@
     "release": "bumpp && npm publish",
     "start": "esno src/index.ts",
     "generateScript": "esno src/generateScript.ts",
-    "runProg": "node one.js",
     "test": "vitest",
     "typecheck": "tsc --noEmit",
     "prepare": "simple-git-hooks"

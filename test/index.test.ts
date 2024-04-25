@@ -10,7 +10,7 @@ describe('functions', () => {
     expect(transpile).not.toThrow()
   })
   it('run', async () => {
-    const child = await execa('pnpm runProg')
+    const child = await execa('node one.js')
 
     expect(child.exitCode).toBe(0)
   })
