@@ -11,5 +11,5 @@
     "skipDefaultLibCheck": true,
     "skipLibCheck": true
   },
-  "exclude": ["snowbowles-script (SNOWBOWLEScript).snowbowles-script.ts", "one.js", "code_for_generateScript.js"]
+  "exclude": ["snowbowles-script (SNOWBOWLEScript).snowbowles-script.ts"]
 }

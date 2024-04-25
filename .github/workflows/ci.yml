@@ -84,4 +84,4 @@ jobs:
         run: nr build
 
       - name: Test
-        run: ls -la && nr test
+        run: nr test
