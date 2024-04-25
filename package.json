@@ -49,7 +49,8 @@
     "prepare": "simple-git-hooks"
   },
   "dependencies": {
-    "dayjs": "^1.11.10"
+    "dayjs": "^1.11.10",
+    "execa": "^8.0.1"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.14.0",
