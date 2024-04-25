@@ -8,22 +8,24 @@ I'm pay my ~6 hours of life for this.
 
 Design of this shit at development time you [can find here](./dev_design.txt).
 
-Please, read `compilation` in this repo as `transpilation`
+Please, read `compilation` in this repo as `transpilation`.
 
-## FULL NAME
+## BLAZING FAST FULL NAME
 
 ```
 snowbowles-script (SNOWBOWLEScript)
 ```
 
+If you don't write BLAZING FAST FULL NAME, i'm can FUCK YOU!
+
 ## FEATURES
 
 - Simple - two syntax constructions FOR ALL CODE! If you use more, compilator will FUCK YOU!
-- Fast - compiles to JavaScript!
+- Fast - compiles to JavaScript! If you say what this is a lie, i'm can FUCK YOU!
 - You have cool name - ~~idiot~~ "BLAZINGLY FAST SnowBoller"!
 - Blazing fast strict mode by default - if you write any error, compilator will FUCK YOU!
 - Great versions plan - only 23 numbers of versions: From 2.007 to 0.9 with step 0.05. ALL 23 BLAZINGLY FAST VERSIONS - `2.007, 1.957, 1.907, 1.857, 1.807, 1.757, 1.707, 1.657, 1.607, 1.557, 1.507, 1.457, 1.407, 1.357, 1.307, 1.257, 1.207, 1.157, 1.107, 1.057, 1.007, 0.957, 0.907`. If you use anything else, compilator will FUCK YOU!
-- Super comfortable blazing fast file naming - no more thinking for a name of file for many hours! NOW - ONLY ONE FILE!!!! `snowbowles-script (SNOWBOWLEScript).snowbowles-script.ts`!!!!!!!!!!!!!!!!!
+- Super comfortable blazing fast file naming - no more thinking for a name of file for many hours! NOW - ONLY ONE FILE!!!! `snowbowles-script (SNOWBOWLEScript).snowbowles-script.ts`!!!!!!!!!!!!!!!!! If you change this, compilator can FUCK YOU!
 - Super comfortable blazing fast program naming - no more thinking for a name of program for many hours! NOW - ONLY THREE LETTERS!!!! If you use more or less, compilator will FUCK YOU! AAAAAAAAAAAAAA FUCK YOU!!!!!!!!!!!!!!!!!
 - At compilation, all script code contained in RAM - it's super blazing fast and comfortable for developer of this lang (me)! If you do something with compilator code, compilator can FUCK YOU!
 - Blazing fast code lines blazingly fastly splitted by blazing fast new lines! If you dont split blazing fast lines by blazing fast new lines, compilator will FUCK YOU!
