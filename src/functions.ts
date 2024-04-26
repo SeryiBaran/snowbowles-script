@@ -25,6 +25,12 @@ export function transpile() {
     if (!allFileSyntaxRegexp.test(scriptSrc))
       throw new Error('script file syntax is shit!')
 
+    const scriptTodayDateMatch = /\n(\d\d\d\d-\d\d-\d\d-\d\d\d\d)\n/g.exec(scriptSrc)
+    if (!scriptTodayDateMatch)
+      throw new Error('script doesnt contains date')
+    if (scriptTodayDateMatch[1] !== todayDateFormatted)
+      throw new Error('script doesnt contains date')
+
     if (!/^snowbowles-script\s\(SNOWBOWLEScript\)/g.test(scriptSrc))
       throw new Error('script doesnt contains lang name')
 
