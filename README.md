@@ -2,8 +2,6 @@
 
 [![License][license-src]][license-href]
 
-I'm pay my ~6 hours of life for this.
-
 ~Payed time:
 
 - Design - 1h
