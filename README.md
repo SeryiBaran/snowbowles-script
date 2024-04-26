@@ -4,6 +4,13 @@
 
 I'm pay my ~6 hours of life for this.
 
+~Payed time:
+
+- Design - 1h
+- Basic transpilation code - 2h-3h
+- Script generation code - 20min
+- Readme - 1h
+
 ✨🎉🧨⚡🔥🌈🌟🎁 Simple blazing fast top sexy programming language based on JavaScript!
 
 Design of this shit at development time you [can find here](./dev_design.txt).
