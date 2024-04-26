@@ -206,7 +206,7 @@ Now we need to encode JavaScript code by ascii. If we have JavaScript code `cons
 Now we need to replace:
 
 - `0` to `snowbowles snowbowler. snowbowler? snowbowler. DEM selwobwons`
-- `0` to `snowbowles snowbawler. snawboler! sniffbowler, DEM selwobwons`
+- `1` to `snowbowles snowbawler. snawboler! sniffbowler, DEM selwobwons`
 
 Now we have this:
 
