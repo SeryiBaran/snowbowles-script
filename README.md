@@ -50,7 +50,7 @@ If you don't write BLAZING FAST FULL NAME, i'm can FUCK YOU!
 ### Easy way
 
 - Write simple ascii javascript code to file `./code_for_generateScript.js`
-- Edit program name (what contains only 3 ascii symbols) in file `./src/generateScript.ts`
+- Edit program name (what contains only 3 ascii symbols) in file `./src/functions.ts` in `generateScript` function
 - Run `pnpm generateScript`
 - Run `pnpm start`
 - Run `node one.js`
